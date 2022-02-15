@@ -55,4 +55,6 @@ https://www.developsense.com/resources/RSTE2022-01-MousumiBhanja.html
 https://www.youtube.com/watch?v=tjZEplICR5g&t=265s&ab_channel=LeandroRamos 
   
 * Jenkins
-
+https://phoenixnap.com/kb/install-jenkins-ubuntu
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jenkins-ubuntu-20-install-git-jdk-java-ci-cd
+https://www.linuxtechi.com/install-configure-jenkins-ubuntu-20-04/
